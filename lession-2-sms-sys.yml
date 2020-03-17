@@ -3,4 +3,4 @@ cg:
  
 redis:
  host: localhost
- port: 63791
+ port: 6379
