@@ -1,2 +1,6 @@
 cg:
  configString: haha 终于成功了
+ 
+ redis:
+  host: localhost
+  port: 6379
